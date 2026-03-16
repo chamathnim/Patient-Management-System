@@ -1,0 +1,18 @@
+# Java
+target/
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+
+# Docker volumes / local db
+db-data/
